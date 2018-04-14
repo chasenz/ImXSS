@@ -1,15 +1,6 @@
 /*
-Navicat MySQL Data Transfer
-
-Source Server         : etrick
-Source Server Version : 50719
-Source Host           : etrick.org:52014
-Source Database       : idreader-general
-
-Target Server Type    : MYSQL
-Target Server Version : 50719
-File Encoding         : 65001
-
+在原本基础上解决中文乱码问题
+即在建表时添加 DEFAULT CHARSET=utf8
 Date: 2018-4-1
 */
 SET FOREIGN_KEY_CHECKS=0;
