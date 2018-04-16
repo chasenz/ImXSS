@@ -1,6 +1,6 @@
 #### 1.环境配置
 JDK1.8+
-Tomcat8
+<br>Tomcat8
 <br>Mysql5.6+
 #### 2.部署说明
 a.建议使用Eclipse打开项目，更新项目，修改conf.properties的数据库账号密码,导出为war文件放置Tomcat根目录下
